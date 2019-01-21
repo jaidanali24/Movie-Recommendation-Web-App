@@ -1,0 +1,17 @@
+{% extends 'base.html' %}
+
+{% block page-header %}
+    <div class="page-header">
+        <h1><a href="/">Movie Page</a></h1>
+    </div>
+{% endblock %}
+
+{% block content %}
+    <div class="movie">
+        <h1>{{ movie.name }}</h1>
+        <p>{{ movie.release_year|linebreaksbr }}</p>
+        <p>{{ movie.runtime|linebreaksbr }}</p>
+        <p>{{ movie.genres|linebreaksbr }}</p>
+        <p>{{ movie.imdb_rating|linebreaksbr }}</p>
+    </div>
+{% endblock %}

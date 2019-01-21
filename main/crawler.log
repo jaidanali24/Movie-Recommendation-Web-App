@@ -1,0 +1,929 @@
+INFO:root:Crawler is scraping 372 seen movies
+INFO:root:ADDED SEEN VERTEX for 'Interstellar'
+INFO:root:ADDED SEEN VERTEX for 'Inception'
+INFO:root:ADDED SEEN VERTEX for 'The Shawshank Redemption'
+INFO:root:ADDED SEEN VERTEX for 'Forrest Gump'
+INFO:root:ADDED SEEN VERTEX for 'The Dark Knight'
+INFO:root:ADDED SEEN VERTEX for 'Eternal Sunshine of the Spotless Mind'
+INFO:root:ADDED SEEN VERTEX for 'Star Wars: Episode V - The Empire Strikes Back'
+INFO:root:ADDED SEEN VERTEX for 'Three Billboards Outside Ebbing, Missouri'
+INFO:root:ADDED SEEN VERTEX for 'Taare Zameen Par'
+INFO:root:ADDED SEEN VERTEX for 'Warrior'
+INFO:root:ADDED SEEN VERTEX for 'Star Wars: Episode VI - Return of the Jedi'
+INFO:root:ADDED SEEN VERTEX for 'Arrival'
+INFO:root:ADDED SEEN VERTEX for 'The Lives of Others'
+INFO:root:ADDED SEEN VERTEX for 'Mad Max: Fury Road'
+INFO:root:ADDED SEEN VERTEX for 'Django Unchained'
+INFO:root:ADDED SEEN VERTEX for 'Inglourious Basterds'
+INFO:root:ADDED SEEN VERTEX for 'Blood Diamond'
+INFO:root:ADDED SEEN VERTEX for 'The Social Network'
+INFO:root:ADDED SEEN VERTEX for 'Donnie Darko'
+INFO:root:ADDED SEEN VERTEX for 'Pulp Fiction'
+INFO:root:ADDED SEEN VERTEX for 'The Wolf of Wall Street'
+INFO:root:ADDED SEEN VERTEX for 'Saving Private Ryan'
+INFO:root:ADDED SEEN VERTEX for 'Blade Runner 2049'
+INFO:root:ADDED SEEN VERTEX for 'Ghost in the Shell'
+INFO:root:ADDED SEEN VERTEX for 'Dunkirk'
+INFO:root:ADDED SEEN VERTEX for 'Brigsby Bear'
+INFO:root:ADDED SEEN VERTEX for 'The Intouchables'
+INFO:root:ADDED SEEN VERTEX for 'Schindler's List'
+INFO:root:ADDED SEEN VERTEX for 'No Country for Old Men'
+INFO:root:ADDED SEEN VERTEX for 'Whiplash'
+INFO:root:ADDED SEEN VERTEX for 'The Prestige'
+INFO:root:ADDED SEEN VERTEX for 'In Bruges'
+INFO:root:ADDED SEEN VERTEX for 'Gladiator'
+INFO:root:ADDED SEEN VERTEX for 'The Dark Knight Rises'
+INFO:root:ADDED SEEN VERTEX for 'A Beautiful Mind'
+INFO:root:ADDED SEEN VERTEX for 'The Hateful Eight'
+INFO:root:ADDED SEEN VERTEX for 'Star Wars: The Force Awakens'
+INFO:root:ADDED SEEN VERTEX for 'La La Land'
+INFO:root:ADDED SEEN VERTEX for '3 Idiots'
+INFO:root:ADDED SEEN VERTEX for '12 Angry Men'
+INFO:root:ADDED SEEN VERTEX for 'Get Out'
+INFO:root:ADDED SEEN VERTEX for 'Spider-Man: Homecoming'
+INFO:root:ADDED SEEN VERTEX for 'Gone Girl'
+INFO:root:ADDED SEEN VERTEX for 'Drive'
+INFO:root:ADDED SEEN VERTEX for 'Toy Story 3'
+INFO:root:ADDED SEEN VERTEX for 'The Usual Suspects'
+INFO:root:ADDED SEEN VERTEX for 'Titanic'
+INFO:root:ADDED SEEN VERTEX for 'Lion'
+INFO:root:ADDED SEEN VERTEX for '12 Years a Slave'
+INFO:root:ADDED SEEN VERTEX for 'Hell or High Water'
+INFO:root:ADDED SEEN VERTEX for 'The Fighter'
+INFO:root:SKIPPED 'O.J.: Made in America'; it is not a movie
+INFO:root:ADDED SEEN VERTEX for 'Blade Runner'
+INFO:root:ADDED SEEN VERTEX for 'The Lion King'
+INFO:root:ADDED SEEN VERTEX for 'Spirited Away'
+INFO:root:ADDED SEEN VERTEX for 'Guardians of the Galaxy'
+INFO:root:ADDED SEEN VERTEX for 'The Matrix'
+INFO:root:ADDED SEEN VERTEX for 'Up'
+INFO:root:ADDED SEEN VERTEX for 'Harry Potter and the Deathly Hallows: Part 2'
+INFO:root:ADDED SEEN VERTEX for 'La tortue rouge'
+INFO:root:ADDED SEEN VERTEX for 'Nightcrawler'
+INFO:root:ADDED SEEN VERTEX for 'Birdman or (The Unexpected Virtue of Ignorance)'
+INFO:root:ADDED SEEN VERTEX for 'Hacksaw Ridge'
+INFO:root:ADDED SEEN VERTEX for 'The Revenant'
+INFO:root:ADDED SEEN VERTEX for 'Logan'
+INFO:root:ADDED SEEN VERTEX for 'There Will Be Blood'
+INFO:root:ADDED SEEN VERTEX for 'Nebraska'
+INFO:root:ADDED SEEN VERTEX for 'Children of Men'
+INFO:root:ADDED SEEN VERTEX for 'Argo'
+INFO:root:ADDED SEEN VERTEX for 'Iverson'
+INFO:root:ADDED SEEN VERTEX for 'How to Train Your Dragon'
+INFO:root:ADDED SEEN VERTEX for 'Incendies'
+INFO:root:ADDED SEEN VERTEX for 'Captain America: Civil War'
+INFO:root:ADDED SEEN VERTEX for 'Undefeated'
+INFO:root:ADDED SEEN VERTEX for 'The Florida Project'
+INFO:root:ADDED SEEN VERTEX for 'Hotel Rwanda'
+INFO:root:ADDED SEEN VERTEX for 'John Wick'
+INFO:root:ADDED SEEN VERTEX for 'Rogue One'
+INFO:root:ADDED SEEN VERTEX for 'Song of the Sea'
+INFO:root:ADDED SEEN VERTEX for 'The Hunger Games: Catching Fire'
+INFO:root:ADDED SEEN VERTEX for 'Akira'
+INFO:root:ADDED SEEN VERTEX for 'Star Trek'
+INFO:root:ADDED SEEN VERTEX for 'The Interview'
+INFO:root:ADDED SEEN VERTEX for 'Deepwater Horizon'
+INFO:root:ADDED SEEN VERTEX for 'The Cove'
+INFO:root:ADDED SEEN VERTEX for 'Kill Bill: Vol. 1'
+INFO:root:ADDED SEEN VERTEX for 'Moana'
+INFO:root:ADDED SEEN VERTEX for 'About Time'
+INFO:root:SKIPPED '13th'; it is not a movie
+INFO:root:ADDED SEEN VERTEX for 'The Pursuit of Happyness'
+INFO:root:ADDED SEEN VERTEX for 'City of God'
+INFO:root:ADDED SEEN VERTEX for 'Ratatouille'
+INFO:root:ADDED SEEN VERTEX for 'Silver Linings Playbook'
+INFO:root:ADDED SEEN VERTEX for 'The Truman Show'
+INFO:root:ADDED SEEN VERTEX for '21 Jump Street'
+INFO:root:ADDED SEEN VERTEX for 'Requiem for a Dream'
+INFO:root:ADDED SEEN VERTEX for 'Rain Man'
+INFO:root:ADDED SEEN VERTEX for 'Only Yesterday'
+INFO:root:ADDED SEEN VERTEX for 'Star Trek: Into Darkness'
+INFO:root:ADDED SEEN VERTEX for 'Se7en'
+INFO:root:ADDED SEEN VERTEX for 'The Breakfast Club'
+INFO:root:ADDED SEEN VERTEX for 'Dallas Buyers Club'
+INFO:root:ADDED SEEN VERTEX for 'Chinatown'
+INFO:root:ADDED SEEN VERTEX for 'The Kite Runner'
+INFO:root:ADDED SEEN VERTEX for 'The Impossible'
+INFO:root:ADDED SEEN VERTEX for 'Kimi no na wa.'
+INFO:root:ADDED SEEN VERTEX for 'John Wick: Chapter 2'
+INFO:root:ADDED SEEN VERTEX for 'Creed'
+INFO:root:ADDED SEEN VERTEX for 'Star Wars: Episode III - Revenge of the Sith'
+INFO:root:ADDED SEEN VERTEX for 'The Blind Side'
+INFO:root:ADDED SEEN VERTEX for 'Monsters, Inc.'
+INFO:root:ADDED SEEN VERTEX for 'Seven Samurai'
+INFO:root:ADDED SEEN VERTEX for 'Lone Survivor'
+INFO:root:ADDED SEEN VERTEX for 'Ocean's Eleven'
+INFO:root:ADDED SEEN VERTEX for 'Call Me by Your Name'
+INFO:root:ADDED SEEN VERTEX for 'Life of Brian'
+INFO:root:ADDED SEEN VERTEX for 'Straight Outta Compton'
+INFO:root:ADDED SEEN VERTEX for 'Twelve Monkeys'
+INFO:root:ADDED SEEN VERTEX for 'American Sniper'
+INFO:root:ADDED SEEN VERTEX for 'The Shining'
+INFO:root:ADDED SEEN VERTEX for 'Spotlight'
+INFO:root:ADDED SEEN VERTEX for 'The Hunger Games'
+INFO:root:ADDED SEEN VERTEX for 'Tangled'
+INFO:root:ADDED SEEN VERTEX for 'Life of Pi'
+INFO:root:ADDED SEEN VERTEX for 'The Martian'
+INFO:root:ADDED SEEN VERTEX for 'Chef'
+INFO:root:ADDED SEEN VERTEX for 'Prisoners'
+INFO:root:ADDED SEEN VERTEX for 'Star Wars: Episode IV - A New Hope'
+INFO:root:ADDED SEEN VERTEX for 'The Big Short'
+INFO:root:ADDED SEEN VERTEX for 'Batman Begins'
+INFO:root:ADDED SEEN VERTEX for 'Nausica of the Valley of the Wind'
+INFO:root:ADDED SEEN VERTEX for 'Crouching Tiger, Hidden Dragon'
+INFO:root:ADDED SEEN VERTEX for 'Lady Bird'
+INFO:root:ADDED SEEN VERTEX for 'Good Will Hunting'
+INFO:root:ADDED SEEN VERTEX for 'Captain Phillips'
+INFO:root:ADDED SEEN VERTEX for 'Rise of the Planet of the Apes'
+INFO:root:ADDED SEEN VERTEX for 'My Neighbor Totoro'
+INFO:root:ADDED SEEN VERTEX for 'Braveheart'
+INFO:root:ADDED SEEN VERTEX for 'Citizen Kane'
+INFO:root:ADDED SEEN VERTEX for 'The Sixth Sense'
+INFO:root:ADDED SEEN VERTEX for 'Kaze tachinu'
+INFO:root:ADDED SEEN VERTEX for 'Remember the Titans'
+INFO:root:ADDED SEEN VERTEX for 'Superbad'
+INFO:root:ADDED SEEN VERTEX for 'Horrible Bosses'
+INFO:root:ADDED SEEN VERTEX for 'Short Term 12'
+INFO:root:ADDED SEEN VERTEX for 'Skyfall'
+INFO:root:ADDED SEEN VERTEX for 'Yip Man'
+INFO:root:ADDED SEEN VERTEX for 'Pitch Perfect'
+INFO:root:ADDED SEEN VERTEX for 'Castle in the Sky'
+INFO:root:ADDED SEEN VERTEX for 'Gandhi'
+INFO:root:ADDED SEEN VERTEX for 'Nocturnal Animals'
+INFO:root:ADDED SEEN VERTEX for 'Limitless'
+INFO:root:ADDED SEEN VERTEX for 'Thor: Ragnarok'
+INFO:root:ADDED SEEN VERTEX for 'The Grand Budapest Hotel'
+INFO:root:ADDED SEEN VERTEX for 'The Nice Guys'
+INFO:root:ADDED SEEN VERTEX for 'Harry Potter and the Prisoner of Azkaban'
+INFO:root:ADDED SEEN VERTEX for 'Sicario'
+INFO:root:ADDED SEEN VERTEX for 'Exit Through the Gift Shop'
+INFO:root:ADDED SEEN VERTEX for 'The LEGO Batman Movie'
+INFO:root:ADDED SEEN VERTEX for 'Hachi: A Dog's Tale'
+INFO:root:ADDED SEEN VERTEX for 'Avatar'
+INFO:root:ADDED SEEN VERTEX for 'War Dogs'
+INFO:root:ADDED SEEN VERTEX for 'Howl's Moving Castle'
+INFO:root:ADDED SEEN VERTEX for 'Fight Club'
+INFO:root:ADDED SEEN VERTEX for 'Wreck-It Ralph'
+INFO:root:ADDED SEEN VERTEX for 'The Avengers'
+INFO:root:ADDED SEEN VERTEX for 'Room'
+INFO:root:ADDED SEEN VERTEX for 'War for the Planet of the Apes'
+INFO:root:ADDED SEEN VERTEX for 'Avengers: Age of Ultron'
+INFO:root:ADDED SEEN VERTEX for 'Fantastic Mr. Fox'
+INFO:root:ADDED SEEN VERTEX for 'Pirates of the Caribbean: The Curse of the Black Pearl'
+INFO:root:ADDED SEEN VERTEX for 'The Big Lebowski'
+INFO:root:ADDED SEEN VERTEX for 'Dead Poets Society'
+INFO:root:ADDED SEEN VERTEX for 'Black Swan'
+INFO:root:ADDED SEEN VERTEX for 'Captain America: The Winter Soldier'
+INFO:root:ADDED SEEN VERTEX for 'What We Do in the Shadows'
+INFO:root:ADDED SEEN VERTEX for 'Black Panther'
+INFO:root:ADDED SEEN VERTEX for 'Fantastic Beasts and Where to Find Them'
+INFO:root:ADDED SEEN VERTEX for 'WALLE'
+INFO:root:ADDED SEEN VERTEX for 'The Look of Silence'
+INFO:root:ADDED SEEN VERTEX for 'Shutter Island'
+INFO:root:ADDED SEEN VERTEX for 'Kingsman: The Secret Service'
+INFO:root:ADDED SEEN VERTEX for 'American History X'
+INFO:root:ADDED SEEN VERTEX for 'The Green Mile'
+INFO:root:ADDED SEEN VERTEX for 'Manchester by the Sea'
+INFO:root:ADDED SEEN VERTEX for 'The Imitation Game'
+INFO:root:ADDED SEEN VERTEX for 'V for Vendetta'
+INFO:root:ADDED SEEN VERTEX for 'The Bourne Identity'
+INFO:root:ADDED SEEN VERTEX for 'Ah-ga-ssi'
+INFO:root:ADDED SEEN VERTEX for 'Virunga'
+INFO:root:ADDED SEEN VERTEX for 'Blackfish'
+INFO:root:ADDED SEEN VERTEX for 'Baby Driver'
+INFO:root:ADDED SEEN VERTEX for 'Dope'
+INFO:root:ADDED SEEN VERTEX for 'The Lego Movie'
+INFO:root:ADDED SEEN VERTEX for 'Slumdog Millionaire'
+INFO:root:ADDED SEEN VERTEX for 'Wonder Woman'
+INFO:root:ADDED SEEN VERTEX for '2001: A Space Odyssey'
+INFO:root:ADDED SEEN VERTEX for 'Moneyball'
+INFO:root:ADDED SEEN VERTEX for 'The Pianist'
+INFO:root:ADDED SEEN VERTEX for 'Jason Bourne'
+INFO:root:ADDED SEEN VERTEX for 'Kiki's Delivery Service'
+INFO:root:ADDED SEEN VERTEX for 'Inside Out'
+INFO:root:ADDED SEEN VERTEX for 'Blow'
+INFO:root:ADDED SEEN VERTEX for 'Zero Dark Thirty'
+INFO:root:ADDED SEEN VERTEX for 'Princess Mononoke'
+INFO:root:ADDED SEEN VERTEX for 'Star Wars: Episode VIII - The Last Jedi'
+INFO:root:ADDED SEEN VERTEX for 'Moonlight'
+INFO:root:ADDED SEEN VERTEX for 'Ex Machina'
+INFO:root:ADDED SEEN VERTEX for 'Guardians of the Galaxy Vol. 2'
+INFO:root:ADDED SEEN VERTEX for 'Iron Man'
+INFO:root:ADDED SEEN VERTEX for 'Fruitvale Station'
+INFO:root:ADDED SEEN VERTEX for 'Pan's Labyrinth'
+INFO:root:ADDED SEEN VERTEX for 'The King's Speech'
+INFO:root:ADDED SEEN VERTEX for 'A Clockwork Orange'
+INFO:root:ADDED SEEN VERTEX for 'One Day'
+INFO:root:ADDED SEEN VERTEX for 'The Count of Monte Cristo'
+INFO:root:ADDED SEEN VERTEX for 'Toy Story'
+INFO:root:ADDED SEEN VERTEX for 'Lawrence of Arabia'
+INFO:root:ADDED SEEN VERTEX for 'Gran Torino'
+INFO:root:ADDED SEEN VERTEX for 'How to Train Your Dragon 2'
+INFO:root:ADDED SEEN VERTEX for 'Hidden Figures'
+INFO:root:ADDED SEEN VERTEX for 'The Princess Bride'
+INFO:root:ADDED SEEN VERTEX for 'Die Hard'
+INFO:root:ADDED SEEN VERTEX for 'Catch Me If You Can'
+INFO:root:ADDED SEEN VERTEX for 'Kill Bill: Vol. 2'
+INFO:root:ADDED SEEN VERTEX for 'The Shape of Water'
+INFO:root:ADDED SEEN VERTEX for 'American Psycho'
+INFO:root:ADDED SEEN VERTEX for 'Memories of Murder'
+INFO:root:ADDED SEEN VERTEX for 'Moonrise Kingdom'
+INFO:root:ADDED SEEN VERTEX for 'Chak de! India'
+INFO:root:ADDED SEEN VERTEX for 'Oldeuboi'
+INFO:root:ADDED SEEN VERTEX for 'Jiro Dreams of Sushi'
+INFO:root:ADDED SEEN VERTEX for 'Zootopia'
+INFO:root:ADDED SEEN VERTEX for 'Doctor Strange'
+INFO:root:ADDED SEEN VERTEX for 'Harry Potter and the Order of the Phoenix'
+INFO:root:ADDED SEEN VERTEX for '180 South'
+INFO:root:ADDED SEEN VERTEX for 'World War Z'
+INFO:root:ADDED SEEN VERTEX for 'Les Misrables'
+INFO:root:ADDED SEEN VERTEX for 'Vertigo'
+INFO:root:ADDED SEEN VERTEX for 'Dear Zachary: A Letter to a Son About His Father'
+INFO:root:ADDED SEEN VERTEX for 'The Silence of the Lambs'
+INFO:root:ADDED SEEN VERTEX for 'Beauty and the Beast'
+INFO:root:ADDED SEEN VERTEX for '300'
+INFO:root:ADDED SEEN VERTEX for 'Selma'
+INFO:root:ADDED SEEN VERTEX for 'Gravity'
+INFO:root:ADDED SEEN VERTEX for 'Harry Potter and the Goblet of Fire'
+INFO:root:ADDED SEEN VERTEX for 'Deadpool'
+INFO:root:ADDED SEEN VERTEX for 'Monty Python and the Holy Grail'
+INFO:root:ADDED SEEN VERTEX for 'Harry Potter and the Deathly Hallows: Part 1'
+INFO:root:ADDED SEEN VERTEX for 'Dawn of the Planet of the Apes'
+INFO:root:ADDED SEEN VERTEX for 'Indiana Jones and the Last Crusade'
+INFO:root:ADDED SEEN VERTEX for 'Sing Street'
+INFO:root:ADDED SEEN VERTEX for 'Mimi wo sumaseba'
+INFO:root:ADDED SEEN VERTEX for 'Full Metal Jacket'
+INFO:root:ADDED SEEN VERTEX for '(500) Days of Summer'
+INFO:root:ADDED SEEN VERTEX for 'Le Petit Prince'
+INFO:root:ADDED SEEN VERTEX for 'Rush'
+INFO:root:ADDED SEEN VERTEX for 'The Godfather'
+INFO:root:ADDED SEEN VERTEX for 'Hitch'
+INFO:root:ADDED SEEN VERTEX for 'Toy Story 2'
+INFO:root:ADDED SEEN VERTEX for 'Top Gun'
+INFO:root:ADDED SEEN VERTEX for 'Restrepo'
+INFO:root:ADDED SEEN VERTEX for 'Airplane!'
+INFO:root:ADDED SEEN VERTEX for 'The Perks of Being a Wallflower'
+INFO:root:ADDED SEEN VERTEX for 'Sherpa'
+INFO:root:ADDED SEEN VERTEX for 'The Greatest Game Ever Played'
+INFO:root:ADDED SEEN VERTEX for 'Heathers'
+INFO:root:ADDED SEEN VERTEX for 'The Lost City of Z'
+INFO:root:ADDED SEEN VERTEX for 'Iron Man 2'
+INFO:root:ADDED SEEN VERTEX for 'Rang De Basanti'
+INFO:root:ADDED SEEN VERTEX for 'Her'
+INFO:root:ADDED SEEN VERTEX for 'Pineapple Express'
+INFO:root:ADDED SEEN VERTEX for 'Moon'
+INFO:root:ADDED SEEN VERTEX for 'The Dictator'
+INFO:root:ADDED SEEN VERTEX for 'Wind River'
+INFO:root:ADDED SEEN VERTEX for 'Monsters University'
+INFO:root:ADDED SEEN VERTEX for 'The Hurt Locker'
+INFO:root:ADDED SEEN VERTEX for 'Grave of the Fireflies'
+INFO:root:ADDED SEEN VERTEX for 'The Blair Witch Project'
+INFO:root:ADDED SEEN VERTEX for 'Sans Soleil'
+INFO:root:ADDED SEEN VERTEX for 'Trainspotting'
+INFO:root:ADDED SEEN VERTEX for 'Star Wars: Episode II - Attack of the Clones'
+INFO:root:ADDED SEEN VERTEX for 'Harry Potter and the Chamber of Secrets'
+INFO:root:ADDED SEEN VERTEX for 'Tropic Thunder'
+INFO:root:ADDED SEEN VERTEX for 'Fences'
+INFO:root:ADDED SEEN VERTEX for 'American Beauty'
+INFO:root:ADDED SEEN VERTEX for 'RED'
+INFO:root:ADDED SEEN VERTEX for 'The Hangover'
+INFO:root:ADDED SEEN VERTEX for 'Kubo and the Two Strings'
+INFO:root:ADDED SEEN VERTEX for 'Ted 2'
+INFO:root:ADDED SEEN VERTEX for 'The Others'
+INFO:root:ADDED SEEN VERTEX for 'Juno'
+INFO:root:ADDED SEEN VERTEX for 'Lon: The Professional'
+INFO:root:ADDED SEEN VERTEX for 'Justice League'
+INFO:root:ADDED SEEN VERTEX for 'Amadeus'
+INFO:root:ADDED SEEN VERTEX for 'To Kill a Mockingbird'
+INFO:root:ADDED SEEN VERTEX for 'The Fault in Our Stars'
+INFO:root:ADDED SEEN VERTEX for 'High Noon'
+INFO:root:ADDED SEEN VERTEX for 'The Departed'
+INFO:root:ADDED SEEN VERTEX for 'Despicable Me 2'
+INFO:root:ADDED SEEN VERTEX for 'Logan Lucky'
+INFO:root:ADDED SEEN VERTEX for 'The Hunt for Red October'
+INFO:root:ADDED SEEN VERTEX for 'The Hobbit: An Unexpected Journey'
+INFO:root:ADDED SEEN VERTEX for 'Shree 420'
+INFO:root:ADDED SEEN VERTEX for 'Memento'
+INFO:root:ADDED SEEN VERTEX for 'We're the Millers'
+INFO:root:ADDED SEEN VERTEX for 'Platoon'
+INFO:root:ADDED SEEN VERTEX for 'Million Dollar Baby'
+INFO:root:ADDED SEEN VERTEX for 'The Notebook'
+INFO:root:ADDED SEEN VERTEX for 'The Hunger Games: Mockingjay - Part 2'
+INFO:root:ADDED SEEN VERTEX for 'Crash'
+INFO:root:ADDED SEEN VERTEX for 'The Maze Runner'
+INFO:root:ADDED SEEN VERTEX for 'Downfall'
+INFO:root:ADDED SEEN VERTEX for 'Frozen'
+INFO:root:ADDED SEEN VERTEX for 'The Incredibles'
+INFO:root:ADDED SEEN VERTEX for 'Harry Potter and the Half-Blood Prince'
+INFO:root:ADDED SEEN VERTEX for 'Mission: Impossible - Rogue Nation'
+INFO:root:ADDED SEEN VERTEX for 'Burn After Reading'
+INFO:root:ADDED SEEN VERTEX for 'Looper'
+INFO:root:ADDED SEEN VERTEX for 'Harry Potter and the Sorcerer's Stone'
+INFO:root:ADDED SEEN VERTEX for 'Kramer vs. Kramer'
+INFO:root:ADDED SEEN VERTEX for 'Hoop Dreams'
+INFO:root:ADDED SEEN VERTEX for 'Reservoir Dogs'
+INFO:root:ADDED SEEN VERTEX for 'Dazed and Confused'
+INFO:root:ADDED SEEN VERTEX for 'Mulholland Dr.'
+INFO:root:ADDED SEEN VERTEX for 'The Heat'
+INFO:root:ADDED SEEN VERTEX for 'Nostalgia de la luz'
+INFO:root:ADDED SEEN VERTEX for 'Dangal'
+INFO:root:ADDED SEEN VERTEX for 'The Hunger Games: Mockingjay - Part 1'
+INFO:root:ADDED SEEN VERTEX for 'Tuesdays with Morrie'
+INFO:root:ADDED SEEN VERTEX for 'Fury'
+INFO:root:ADDED SEEN VERTEX for 'Taxi Driver'
+INFO:root:ADDED SEEN VERTEX for 'A Separation'
+INFO:root:ADDED SEEN VERTEX for 'Bowling for Columbine'
+INFO:root:ADDED SEEN VERTEX for 'Apocalypse Now'
+INFO:root:ADDED SEEN VERTEX for 'The Lord of the Rings: The Fellowship of the Ring'
+INFO:root:ADDED SEEN VERTEX for 'Raiders of the Lost Ark'
+INFO:root:ADDED SEEN VERTEX for 'District 9'
+INFO:root:ADDED SEEN VERTEX for 'Goodfellas'
+INFO:root:ADDED SEEN VERTEX for 'Precious'
+INFO:root:ADDED SEEN VERTEX for 'Finding Nemo'
+INFO:root:ADDED SEEN VERTEX for 'Star Wars: Episode I - The Phantom Menace'
+INFO:root:ADDED SEEN VERTEX for 'Anchorman: The Legend of Ron Burgundy'
+INFO:root:ADDED SEEN VERTEX for 'The Invitation'
+INFO:root:ADDED SEEN VERTEX for 'Furious 6'
+INFO:root:ADDED SEEN VERTEX for '22 Jump Street'
+INFO:root:ADDED SEEN VERTEX for 'Big Hero 6'
+INFO:root:ADDED SEEN VERTEX for 'Furious 7'
+INFO:root:ADDED SEEN VERTEX for 'One Flew Over the Cuckoo's Nest'
+INFO:root:ADDED SEEN VERTEX for 'I Love You, Man'
+INFO:root:ADDED SEEN VERTEX for 'Bad Grandpa'
+INFO:root:ADDED SEEN VERTEX for 'Fargo'
+INFO:root:ADDED SEEN VERTEX for 'Stand by Me'
+INFO:root:ADDED SEEN VERTEX for 'The Great Gatsby'
+INFO:root:ADDED SEEN VERTEX for 'Ted'
+INFO:root:ADDED SEEN VERTEX for 'The English Patient'
+INFO:root:ADDED SEEN VERTEX for 'Almost Famous'
+INFO:root:ADDED SEEN VERTEX for 'Take Shelter'
+INFO:root:ADDED SEEN VERTEX for 'Psycho'
+INFO:root:ADDED SEEN VERTEX for 'Back to the Future'
+INFO:root:ADDED SEEN VERTEX for 'Real Steel'
+INFO:root:ADDED SEEN VERTEX for 'The Fast and the Furious'
+INFO:root:ADDED SEEN VERTEX for 'Sausage Party'
+INFO:root:ADDED SEEN VERTEX for 'Happy Gilmore'
+INFO:root:ADDED SEEN VERTEX for 'Clueless'
+INFO:root:ADDED SEEN VERTEX for 'This Is the End'
+INFO:root:ADDED SEEN VERTEX for 'Iron Man Three'
+INFO:root:ADDED SEEN VERTEX for 'A Walk to Remember'
+INFO:root:ADDED SEEN VERTEX for 'Anchorman 2: The Legend Continues'
+INFO:root:ADDED SEEN VERTEX for 'Daddy's Home'
+INFO:root:ADDED SEEN VERTEX for 'Elysium'
+INFO:root:ADDED SEEN VERTEX for 'Observe and Report'
+INFO:root:Scraped the user's rated movies
+INFO:root:Crawler is scraping 552 unseen movies
+INFO:root:ADDED UNSEEN VERTEX for 'El botn de ncar'
+INFO:root:ADDED UNSEEN VERTEX for 'Casino Royale'
+INFO:root:SKIPPED 'Kkaku kidtai: Stand Alone Complex'; it is not a movie
+INFO:root:ADDED UNSEEN VERTEX for 'The Time Traveler's Wife'
+INFO:root:ADDED UNSEEN VERTEX for 'Ong-Bak: The Thai Warrior'
+INFO:root:ADDED UNSEEN VERTEX for 'Crimson Tide'
+INFO:root:SKIPPED 'Role Models'; IMDb rating of 6.9 is below the threshold of 7.1
+INFO:root:ADDED UNSEEN VERTEX for 'Barton Fink'
+INFO:root:ADDED UNSEEN VERTEX for 'I, Tonya'
+INFO:root:ADDED UNSEEN VERTEX for 'True Grit'
+INFO:root:ADDED UNSEEN VERTEX for 'Despicable Me'
+INFO:root:ADDED UNSEEN VERTEX for 'Wild at Heart'
+INFO:root:ADDED UNSEEN VERTEX for 'Shane'
+INFO:root:ADDED UNSEEN VERTEX for 'Forgetting Sarah Marshall'
+INFO:root:SKIPPED 'The White Helmets'; it is not a movie
+INFO:root:ADDED UNSEEN VERTEX for 'The Secret of Kells'
+INFO:root:SKIPPED 'Korengal'; IMDb rating of 6.8 is below the threshold of 7.1
+INFO:root:SKIPPED 'The Proposal'; IMDb rating of 6.7 is below the threshold of 7.1
+INFO:root:SKIPPED 'Bad Boys II'; IMDb rating of 6.6 is below the threshold of 7.1
+INFO:root:ADDED UNSEEN VERTEX for 'The Hundred-Foot Journey'
+INFO:root:ADDED UNSEEN VERTEX for 'The Theory of Everything'
+INFO:root:SKIPPED 'Enemy'; IMDb rating of 6.9 is below the threshold of 7.1
+INFO:root:ADDED UNSEEN VERTEX for 'Darbareye Elly'
+INFO:root:ADDED UNSEEN VERTEX for 'Hachi-ko'
+INFO:root:SKIPPED 'Meet the Blacks'; IMDb rating of 5.9 is below the threshold of 7.1
+INFO:root:ADDED UNSEEN VERTEX for 'The Breadwinner'
+INFO:root:ADDED UNSEEN VERTEX for 'Pirates of the Caribbean: At World's End'
+INFO:root:SKIPPED 'Mr. & Mrs. Smith'; IMDb rating of 6.5 is below the threshold of 7.1
+INFO:root:ADDED UNSEEN VERTEX for 'Yojimbo'
+INFO:root:ADDED UNSEEN VERTEX for 'Jurassic Park'
+INFO:root:ADDED UNSEEN VERTEX for 'The Founder'
+INFO:root:ADDED UNSEEN VERTEX for 'North by Northwest'
+INFO:root:SKIPPED 'RED 2'; IMDb rating of 6.7 is below the threshold of 7.1
+INFO:root:SKIPPED 'Burnt'; IMDb rating of 6.6 is below the threshold of 7.1
+INFO:root:SKIPPED 'Hancock'; IMDb rating of 6.4 is below the threshold of 7.1
+INFO:root:ADDED UNSEEN VERTEX for 'Ernest & Celestine'
+INFO:root:SKIPPED 'Men in Black II'; IMDb rating of 6.1 is below the threshold of 7.1
+INFO:root:ADDED UNSEEN VERTEX for 'From Up on Poppy Hill'
+INFO:root:ADDED UNSEEN VERTEX for 'Kaagaz Ke Phool'
+INFO:root:SKIPPED 'The Lego Ninjago Movie'; IMDb rating of 6.0 is below the threshold of 7.1
+INFO:root:ADDED UNSEEN VERTEX for 'Contact'
+INFO:root:SKIPPED 'Junkopia'; scraper could not find a runtime
+INFO:root:ADDED UNSEEN VERTEX for 'John Q'
+INFO:root:ADDED UNSEEN VERTEX for 'Hot Fuzz'
+INFO:root:SKIPPED 'Despicable Me 3'; IMDb rating of 6.3 is below the threshold of 7.1
+INFO:root:SKIPPED 'The Naked Gun 2: The Smell of Fear'; IMDb rating of 6.8 is below the threshold of 7.1
+INFO:root:ADDED UNSEEN VERTEX for 'Man with a Movie Camera'
+INFO:root:ADDED UNSEEN VERTEX for 'The Ring'
+INFO:root:ADDED UNSEEN VERTEX for 'Bridge of Spies'
+INFO:root:SKIPPED 'Inland Empire'; IMDb rating of 7.0 is below the threshold of 7.1
+INFO:root:ADDED UNSEEN VERTEX for 'The Wild Bunch'
+INFO:root:ADDED UNSEEN VERTEX for '10 Things I Hate About You'
+INFO:root:ADDED UNSEEN VERTEX for 'Forushande'
+INFO:root:SKIPPED 'Bad Grandpa .5'; IMDb rating of 6.4 is below the threshold of 7.1
+INFO:root:ADDED UNSEEN VERTEX for 'Back to the Future Part II'
+INFO:root:ADDED UNSEEN VERTEX for 'Edge of Tomorrow'
+INFO:root:ADDED UNSEEN VERTEX for '127 Hours'
+INFO:root:SKIPPED 'The Sorcerer's Apprentice'; IMDb rating of 6.1 is below the threshold of 7.1
+INFO:root:ADDED UNSEEN VERTEX for 'Meru'
+INFO:root:ADDED UNSEEN VERTEX for 'Porco Rosso'
+INFO:root:SKIPPED 'Minions'; IMDb rating of 6.4 is below the threshold of 7.1
+INFO:root:SKIPPED 'Paranormal Activity 2'; IMDb rating of 5.7 is below the threshold of 7.1
+INFO:root:ADDED UNSEEN VERTEX for 'The Edge of Seventeen'
+INFO:root:ADDED UNSEEN VERTEX for 'Munna Bhai M.B.B.S.'
+INFO:root:ADDED UNSEEN VERTEX for 'Tangerine'
+INFO:root:ADDED UNSEEN VERTEX for 'House of Flying Daggers'
+INFO:root:ADDED UNSEEN VERTEX for 'La Vie en Rose'
+INFO:root:ADDED UNSEEN VERTEX for 'Lincoln'
+INFO:root:ADDED UNSEEN VERTEX for '8 Mile'
+INFO:root:SKIPPED 'The Fast and the Furious: Tokyo Drift'; IMDb rating of 6.0 is below the threshold of 7.1
+INFO:root:ADDED UNSEEN VERTEX for 'Ordinary People'
+INFO:root:ADDED UNSEEN VERTEX for 'Mission: Impossible - Ghost Protocol'
+INFO:root:SKIPPED 'Zoolander'; IMDb rating of 6.6 is below the threshold of 7.1
+INFO:root:SKIPPED 'Creep'; IMDb rating of 6.3 is below the threshold of 7.1
+INFO:root:SKIPPED 'Air Force One'; IMDb rating of 6.5 is below the threshold of 7.1
+INFO:root:ADDED UNSEEN VERTEX for 'Sideways'
+INFO:root:SKIPPED 'Rocky V'; IMDb rating of 5.2 is below the threshold of 7.1
+INFO:root:ADDED UNSEEN VERTEX for 'Girl, Interrupted'
+INFO:root:ADDED UNSEEN VERTEX for 'The Boy in the Striped Pajamas'
+INFO:root:SKIPPED '1408'; IMDb rating of 6.8 is below the threshold of 7.1
+INFO:root:SKIPPED 'Michael Moore in TrumpLand'; IMDb rating of 5.8 is below the threshold of 7.1
+INFO:root:SKIPPED 'Kobe Bryant's Muse'; it is not a movie
+INFO:root:ADDED UNSEEN VERTEX for 'Minority Report'
+INFO:root:ADDED UNSEEN VERTEX for 'Jaws'
+INFO:root:ADDED UNSEEN VERTEX for 'Shaun of the Dead'
+INFO:root:ADDED UNSEEN VERTEX for 'Equilibrium'
+INFO:root:SKIPPED 'There's Something Wrong with Aunt Diane'; it is not a movie
+INFO:root:ADDED UNSEEN VERTEX for 'Zodiac'
+INFO:root:ADDED UNSEEN VERTEX for 'The Thief of Paris'
+INFO:root:SKIPPED 'Horrible Bosses 2'; IMDb rating of 6.3 is below the threshold of 7.1
+INFO:root:ADDED UNSEEN VERTEX for 'Mission: Impossible'
+INFO:root:ADDED UNSEEN VERTEX for 'Sixteen Candles'
+INFO:root:ADDED UNSEEN VERTEX for 'Kiss Kiss Bang Bang'
+INFO:root:ADDED UNSEEN VERTEX for 'K2: Siren of the Himalayas'
+INFO:root:ADDED UNSEEN VERTEX for 'Invincible'
+INFO:root:ADDED UNSEEN VERTEX for 'The Life Aquatic with Steve Zissou'
+INFO:root:SKIPPED 'The Hitman's Bodyguard'; IMDb rating of 6.9 is below the threshold of 7.1
+INFO:root:ADDED UNSEEN VERTEX for 'American Hustle'
+INFO:root:SKIPPED 'Days of Thunder'; IMDb rating of 5.9 is below the threshold of 7.1
+INFO:root:ADDED UNSEEN VERTEX for 'Cartel Land'
+INFO:root:SKIPPED 'Big Daddy'; IMDb rating of 6.4 is below the threshold of 7.1
+INFO:root:ADDED UNSEEN VERTEX for 'Ice Age'
+INFO:root:ADDED UNSEEN VERTEX for 'Lock, Stock and Two Smoking Barrels'
+INFO:root:SKIPPED 'The A-Team'; IMDb rating of 6.8 is below the threshold of 7.1
+INFO:root:SKIPPED 'Man cheng jin dai huang jin jia'; IMDb rating of 7.0 is below the threshold of 7.1
+INFO:root:SKIPPED 'White House Down'; IMDb rating of 6.4 is below the threshold of 7.1
+INFO:root:ADDED UNSEEN VERTEX for 'Paprika'
+INFO:root:SKIPPED 'La Jete'; scraper could not find a runtime
+INFO:root:ADDED UNSEEN VERTEX for 'Rocky II'
+INFO:root:ADDED UNSEEN VERTEX for 'Ben-Hur'
+INFO:root:ADDED UNSEEN VERTEX for 'The Bourne Ultimatum'
+INFO:root:SKIPPED 'Gerald's Game'; it is not a movie
+INFO:root:SKIPPED 'Spectre'; IMDb rating of 6.8 is below the threshold of 7.1
+INFO:root:ADDED UNSEEN VERTEX for 'Tickled'
+INFO:root:SKIPPED 'The Devil Wears Prada'; IMDb rating of 6.9 is below the threshold of 7.1
+INFO:root:ADDED UNSEEN VERTEX for 'The Butterfly Effect'
+INFO:root:SKIPPED 'The Italian Job'; IMDb rating of 7.0 is below the threshold of 7.1
+INFO:root:SKIPPED 'National Treasure: Book of Secrets'; IMDb rating of 6.5 is below the threshold of 7.1
+INFO:root:ADDED UNSEEN VERTEX for 'Snatch'
+INFO:root:SKIPPED 'The Longest Yard'; IMDb rating of 6.4 is below the threshold of 7.1
+INFO:root:ADDED UNSEEN VERTEX for 'Clerks'
+INFO:root:ADDED UNSEEN VERTEX for 'Tucker and Dale vs Evil'
+INFO:root:SKIPPED 'Mile... Mile & a Half'; it is not a movie
+INFO:root:SKIPPED 'Foxcatcher'; IMDb rating of 7.0 is below the threshold of 7.1
+INFO:root:SKIPPED 'Star Trek: Nemesis'; IMDb rating of 6.4 is below the threshold of 7.1
+INFO:root:ADDED UNSEEN VERTEX for 'Sympathy for Mr. Vengeance'
+INFO:root:ADDED UNSEEN VERTEX for 'The Great Escape'
+INFO:root:ADDED UNSEEN VERTEX for 'The Curious Case of Benjamin Button'
+INFO:root:ADDED UNSEEN VERTEX for 'Die Hard with a Vengeance'
+INFO:root:SKIPPED 'Hot Shots!'; IMDb rating of 6.7 is below the threshold of 7.1
+INFO:root:ADDED UNSEEN VERTEX for 'The Gift'
+INFO:root:SKIPPED 'Notorious'; IMDb rating of 6.7 is below the threshold of 7.1
+INFO:root:SKIPPED 'Mr. Deeds'; IMDb rating of 5.8 is below the threshold of 7.1
+INFO:root:SKIPPED 'The Ritual'; it is not a movie
+INFO:root:ADDED UNSEEN VERTEX for 'Dances with Wolves'
+INFO:root:ADDED UNSEEN VERTEX for 'The Machinist'
+INFO:root:SKIPPED 'Knocked Up'; IMDb rating of 7.0 is below the threshold of 7.1
+INFO:root:ADDED UNSEEN VERTEX for 'Embrace of the Serpent'
+INFO:root:SKIPPED 'Star Trek III: The Search for Spock'; IMDb rating of 6.7 is below the threshold of 7.1
+INFO:root:ADDED UNSEEN VERTEX for 'Les ogres'
+INFO:root:ADDED UNSEEN VERTEX for 'Cast Away'
+INFO:root:ADDED UNSEEN VERTEX for 'Rashmon'
+INFO:root:ADDED UNSEEN VERTEX for 'The Queen'
+INFO:root:ADDED UNSEEN VERTEX for 'Racing Extinction'
+INFO:root:ADDED UNSEEN VERTEX for 'The Secret in Their Eyes'
+INFO:root:SKIPPED 'Get Rich or Die Tryin''; IMDb rating of 5.2 is below the threshold of 7.1
+INFO:root:SKIPPED 'Night and Fog'; scraper could not find a runtime
+INFO:root:SKIPPED 'Orphan'; IMDb rating of 7.0 is below the threshold of 7.1
+INFO:root:SKIPPED 'Risky Business'; IMDb rating of 6.8 is below the threshold of 7.1
+INFO:root:ADDED UNSEEN VERTEX for 'Scarface'
+INFO:root:SKIPPED 'The Fate of the Furious'; IMDb rating of 6.7 is below the threshold of 7.1
+INFO:root:ADDED UNSEEN VERTEX for 'Best of Enemies'
+INFO:root:SKIPPED 'Spy'; IMDb rating of 7.0 is below the threshold of 7.1
+INFO:root:ADDED UNSEEN VERTEX for 'Mother'
+INFO:root:ADDED UNSEEN VERTEX for 'Alien'
+INFO:root:ADDED UNSEEN VERTEX for 'Lawless'
+INFO:root:ADDED UNSEEN VERTEX for 'Boy'
+INFO:root:ADDED UNSEEN VERTEX for 'Brave'
+INFO:root:ADDED UNSEEN VERTEX for 'The Rock'
+INFO:root:ADDED UNSEEN VERTEX for 'Shooter'
+INFO:root:SKIPPED 'Kong: Skull Island'; IMDb rating of 6.7 is below the threshold of 7.1
+INFO:root:SKIPPED 'All Eyez on Me'; IMDb rating of 5.8 is below the threshold of 7.1
+INFO:root:ADDED UNSEEN VERTEX for 'The Deer Hunter'
+INFO:root:SKIPPED 'Jackass 3D'; IMDb rating of 7.0 is below the threshold of 7.1
+INFO:root:ADDED UNSEEN VERTEX for 'Remember Me'
+INFO:root:ADDED UNSEEN VERTEX for 'Terms of Endearment'
+INFO:root:ADDED UNSEEN VERTEX for '[Rec]'
+INFO:root:ADDED UNSEEN VERTEX for 'Cowboy Bebop: The Movie'
+INFO:root:ADDED UNSEEN VERTEX for 'The Hobbit: The Desolation of Smaug'
+INFO:root:ADDED UNSEEN VERTEX for 'Philomena'
+INFO:root:SKIPPED 'The Beach'; IMDb rating of 6.6 is below the threshold of 7.1
+INFO:root:SKIPPED 'Norbit'; IMDb rating of 4.0 is below the threshold of 7.1
+INFO:root:ADDED UNSEEN VERTEX for 'Once Upon a Time in the West'
+INFO:root:SKIPPED 'Blades of Glory'; IMDb rating of 6.3 is below the threshold of 7.1
+INFO:root:SKIPPED 'Olympus Has Fallen'; IMDb rating of 6.5 is below the threshold of 7.1
+INFO:root:ADDED UNSEEN VERTEX for 'A Single Man'
+INFO:root:SKIPPED 'Captain America: The First Avenger'; IMDb rating of 6.9 is below the threshold of 7.1
+INFO:root:ADDED UNSEEN VERTEX for 'Girl with Green Eyes'
+INFO:root:SKIPPED 'Dying for Everest'; scraper could not find a runtime
+INFO:root:SKIPPED 'Jab Tak Hai Jaan'; IMDb rating of 6.8 is below the threshold of 7.1
+INFO:root:ADDED UNSEEN VERTEX for 'Indiana Jones and the Temple of Doom'
+INFO:root:ADDED UNSEEN VERTEX for 'Friday'
+INFO:root:ADDED UNSEEN VERTEX for 'Out of Africa'
+INFO:root:ADDED UNSEEN VERTEX for 'Searching for Sugar Man'
+INFO:root:ADDED UNSEEN VERTEX for 'Finding Dory'
+INFO:root:SKIPPED 'Gedo senki'; IMDb rating of 6.5 is below the threshold of 7.1
+INFO:root:SKIPPED 'Atomic Blonde'; IMDb rating of 6.7 is below the threshold of 7.1
+INFO:root:ADDED UNSEEN VERTEX for 'Borat: Cultural Learnings of America for Make Benefit Glorious Nation of Kazakhstan'
+INFO:root:SKIPPED 'Airplane II: The Sequel'; IMDb rating of 6.1 is below the threshold of 7.1
+INFO:root:ADDED UNSEEN VERTEX for 'The Bridge on the River Kwai'
+INFO:root:SKIPPED 'Paranormal Activity'; IMDb rating of 6.3 is below the threshold of 7.1
+INFO:root:SKIPPED 'Only God Forgives'; IMDb rating of 5.7 is below the threshold of 7.1
+INFO:root:ADDED UNSEEN VERTEX for 'Rushmore'
+INFO:root:SKIPPED 'Dear John'; IMDb rating of 6.3 is below the threshold of 7.1
+INFO:root:ADDED UNSEEN VERTEX for 'Valley Uprising'
+INFO:root:ADDED UNSEEN VERTEX for 'Old School'
+INFO:root:SKIPPED 'Silent Hill'; IMDb rating of 6.6 is below the threshold of 7.1
+INFO:root:SKIPPED 'Pretty in Pink'; IMDb rating of 6.8 is below the threshold of 7.1
+INFO:root:ADDED UNSEEN VERTEX for 'Milk'
+INFO:root:ADDED UNSEEN VERTEX for 'A Wednesday'
+INFO:root:SKIPPED 'Walking the Camino: Six Ways to Santiago'; scraper could not find a list of actors or directors
+INFO:root:ADDED UNSEEN VERTEX for 'Going Clear: Scientology & the Prison of Belief'
+INFO:root:SKIPPED 'Naked Gun 33 1/3: The Final Insult'; IMDb rating of 6.5 is below the threshold of 7.1
+INFO:root:ADDED UNSEEN VERTEX for 'Star Trek II: The Wrath of Khan'
+INFO:root:SKIPPED 'ParaNorman'; IMDb rating of 7.0 is below the threshold of 7.1
+INFO:root:SKIPPED 'Ali G Indahouse'; IMDb rating of 6.2 is below the threshold of 7.1
+INFO:root:ADDED UNSEEN VERTEX for 'Donnie Brasco'
+INFO:root:SKIPPED 'Jackass 3.5'; IMDb rating of 6.8 is below the threshold of 7.1
+INFO:root:ADDED UNSEEN VERTEX for 'Once'
+INFO:root:SKIPPED 'Mission: Impossible II'; IMDb rating of 6.1 is below the threshold of 7.1
+INFO:root:ADDED UNSEEN VERTEX for 'Hunt for the Wilderpeople'
+INFO:root:ADDED UNSEEN VERTEX for 'Gattaca'
+INFO:root:ADDED UNSEEN VERTEX for 'Rudy'
+INFO:root:ADDED UNSEEN VERTEX for 'Jerry Maguire'
+INFO:root:SKIPPED 'Jackass'; it is not a movie
+INFO:root:SKIPPED 'The Wedding Singer'; IMDb rating of 6.8 is below the threshold of 7.1
+INFO:root:ADDED UNSEEN VERTEX for 'Kung Fu Panda'
+INFO:root:SKIPPED 'Ocean's Thirteen'; IMDb rating of 6.9 is below the threshold of 7.1
+INFO:root:ADDED UNSEEN VERTEX for 'The Terminal'
+INFO:root:ADDED UNSEEN VERTEX for 'I Saw the Devil'
+INFO:root:ADDED UNSEEN VERTEX for 'Die Hard 2'
+INFO:root:SKIPPED 'Ingrid Goes West'; IMDb rating of 6.7 is below the threshold of 7.1
+INFO:root:ADDED UNSEEN VERTEX for 'The Guard'
+INFO:root:ADDED UNSEEN VERTEX for 'Capitalism: A Love Story'
+INFO:root:ADDED UNSEEN VERTEX for 'Easy A'
+INFO:root:SKIPPED 'Crooklyn'; IMDb rating of 6.9 is below the threshold of 7.1
+INFO:root:ADDED UNSEEN VERTEX for 'The Book Thief'
+INFO:root:SKIPPED 'Rocky III'; IMDb rating of 6.8 is below the threshold of 7.1
+INFO:root:SKIPPED 'Pirates of the Caribbean: Dead Men Tell No Tales'; IMDb rating of 6.6 is below the threshold of 7.1
+INFO:root:ADDED UNSEEN VERTEX for 'O Brother, Where Art Thou?'
+INFO:root:ADDED UNSEEN VERTEX for 'X-Men: Days of Future Past'
+INFO:root:SKIPPED 'Jack Reacher'; IMDb rating of 7.0 is below the threshold of 7.1
+INFO:root:ADDED UNSEEN VERTEX for 'Description d'un combat'
+INFO:root:ADDED UNSEEN VERTEX for 'A Few Good Men'
+INFO:root:SKIPPED 'Reality Bites'; IMDb rating of 6.6 is below the threshold of 7.1
+INFO:root:SKIPPED 'Planet of the Apes'; IMDb rating of 5.7 is below the threshold of 7.1
+INFO:root:ADDED UNSEEN VERTEX for 'Moulin Rouge!'
+INFO:root:SKIPPED 'Tammy'; IMDb rating of 4.9 is below the threshold of 7.1
+INFO:root:ADDED UNSEEN VERTEX for 'My Brother... Nikhil'
+INFO:root:SKIPPED 'The Magnificent Seven'; IMDb rating of 6.9 is below the threshold of 7.1
+INFO:root:SKIPPED 'Oblivion'; IMDb rating of 7.0 is below the threshold of 7.1
+INFO:root:ADDED UNSEEN VERTEX for 'Boyz n the Hood'
+INFO:root:SKIPPED 'Brno'; IMDb rating of 5.8 is below the threshold of 7.1
+INFO:root:ADDED UNSEEN VERTEX for 'The Lord of the Rings: The Two Towers'
+INFO:root:ADDED UNSEEN VERTEX for 'Pirates of the Caribbean: Dead Man's Chest'
+INFO:root:ADDED UNSEEN VERTEX for 'Sunshine'
+INFO:root:ADDED UNSEEN VERTEX for 'Ran'
+INFO:root:SKIPPED 'Divergent'; IMDb rating of 6.7 is below the threshold of 7.1
+INFO:root:SKIPPED 'Thor'; IMDb rating of 7.0 is below the threshold of 7.1
+INFO:root:SKIPPED 'Jack Reacher: Never Go Back'; IMDb rating of 6.1 is below the threshold of 7.1
+INFO:root:ADDED UNSEEN VERTEX for 'Patriots Day'
+INFO:root:ADDED UNSEEN VERTEX for 'Fear and Loathing in Las Vegas'
+INFO:root:ADDED UNSEEN VERTEX for 'Perfect Blue'
+INFO:root:ADDED UNSEEN VERTEX for 'Salvador Allende'
+INFO:root:ADDED UNSEEN VERTEX for 'The Place Beyond the Pines'
+INFO:root:ADDED UNSEEN VERTEX for 'Begin Again'
+INFO:root:ADDED UNSEEN VERTEX for 'Ferris Bueller's Day Off'
+INFO:root:ADDED UNSEEN VERTEX for 'Split'
+INFO:root:ADDED UNSEEN VERTEX for 'Lost Highway'
+INFO:root:SKIPPED 'Identity Thief'; IMDb rating of 5.7 is below the threshold of 7.1
+INFO:root:ADDED UNSEEN VERTEX for 'Election'
+INFO:root:SKIPPED 'Passengers'; IMDb rating of 7.0 is below the threshold of 7.1
+INFO:root:ADDED UNSEEN VERTEX for 'Born Into Brothels: Calcutta's Red Light Kids'
+INFO:root:ADDED UNSEEN VERTEX for 'We Are Marshall'
+INFO:root:ADDED UNSEEN VERTEX for 'The Tale of the Princess Kaguya'
+INFO:root:SKIPPED 'If I Stay'; IMDb rating of 6.8 is below the threshold of 7.1
+INFO:root:ADDED UNSEEN VERTEX for 'Jackie Brown'
+INFO:root:SKIPPED 'Hush'; IMDb rating of 6.6 is below the threshold of 7.1
+INFO:root:ADDED UNSEEN VERTEX for 'I Am Legend'
+INFO:root:ADDED UNSEEN VERTEX for 'The Battle for Marjah'
+INFO:root:SKIPPED 'The Brothers Grimsby'; IMDb rating of 6.2 is below the threshold of 7.1
+INFO:root:ADDED UNSEEN VERTEX for 'The Man Who Shot Liberty Valance'
+INFO:root:ADDED UNSEEN VERTEX for 'Abad va yek rooz'
+INFO:root:ADDED UNSEEN VERTEX for 'The Nightmare Before Christmas'
+INFO:root:SKIPPED 'The Firm'; IMDb rating of 6.8 is below the threshold of 7.1
+INFO:root:ADDED UNSEEN VERTEX for 'Star Trek: Beyond'
+INFO:root:ADDED UNSEEN VERTEX for 'Coach Carter'
+INFO:root:SKIPPED 'Bridesmaids'; IMDb rating of 6.8 is below the threshold of 7.1
+INFO:root:SKIPPED 'Dodgeball: A True Underdog Story'; IMDb rating of 6.7 is below the threshold of 7.1
+INFO:root:ADDED UNSEEN VERTEX for 'The Searchers'
+INFO:root:SKIPPED 'The Expendables'; IMDb rating of 6.5 is below the threshold of 7.1
+INFO:root:ADDED UNSEEN VERTEX for 'The Fugitive'
+INFO:root:ADDED UNSEEN VERTEX for 'Before the Flood'
+INFO:root:SKIPPED 'Kingsman: The Golden Circle'; IMDb rating of 6.8 is below the threshold of 7.1
+INFO:root:ADDED UNSEEN VERTEX for 'The Aviator'
+INFO:root:SKIPPED 'At All Costs'; IMDb rating of 6.6 is below the threshold of 7.1
+INFO:root:ADDED UNSEEN VERTEX for 'The Master'
+INFO:root:ADDED UNSEEN VERTEX for 'Do Bigha Zamin'
+INFO:root:SKIPPED 'Legend'; IMDb rating of 7.0 is below the threshold of 7.1
+INFO:root:SKIPPED 'Weird Science'; IMDb rating of 6.6 is below the threshold of 7.1
+INFO:root:SKIPPED 'The Karate Kid'; IMDb rating of 6.2 is below the threshold of 7.1
+INFO:root:ADDED UNSEEN VERTEX for 'Seven Psychopaths'
+INFO:root:ADDED UNSEEN VERTEX for 'Fearless'
+INFO:root:ADDED UNSEEN VERTEX for 'The Terminator'
+INFO:root:ADDED UNSEEN VERTEX for 'Live Free or Die Hard'
+INFO:root:SKIPPED 'Neighbors'; IMDb rating of 6.3 is below the threshold of 7.1
+INFO:root:SKIPPED 'The Boss'; IMDb rating of 5.4 is below the threshold of 7.1
+INFO:root:ADDED UNSEEN VERTEX for 'The Illusionist'
+INFO:root:SKIPPED 'Pirates of the Caribbean: On Stranger Tides'; IMDb rating of 6.6 is below the threshold of 7.1
+INFO:root:SKIPPED 'Step Brothers'; IMDb rating of 6.9 is below the threshold of 7.1
+INFO:root:SKIPPED 'Bad Boys'; IMDb rating of 6.8 is below the threshold of 7.1
+INFO:root:SKIPPED 'Bhoothnath'; IMDb rating of 6.3 is below the threshold of 7.1
+INFO:root:SKIPPED 'Clear and Present Danger'; IMDb rating of 6.9 is below the threshold of 7.1
+INFO:root:SKIPPED 'Quantum of Solace'; IMDb rating of 6.6 is below the threshold of 7.1
+INFO:root:SKIPPED 'Independence Day'; IMDb rating of 7.0 is below the threshold of 7.1
+INFO:root:ADDED UNSEEN VERTEX for 'About Schmidt'
+INFO:root:ADDED UNSEEN VERTEX for 'Darkest Hour'
+INFO:root:SKIPPED 'Love & Other Drugs'; IMDb rating of 6.7 is below the threshold of 7.1
+INFO:root:ADDED UNSEEN VERTEX for 'Das Boot'
+INFO:root:ADDED UNSEEN VERTEX for 'Blue Velvet'
+INFO:root:SKIPPED 'The Bourne Legacy'; IMDb rating of 6.7 is below the threshold of 7.1
+INFO:root:SKIPPED 'Fast & Furious'; IMDb rating of 6.6 is below the threshold of 7.1
+INFO:root:SKIPPED 'Fantastic Four'; IMDb rating of 5.7 is below the threshold of 7.1
+INFO:root:ADDED UNSEEN VERTEX for 'Secret Superstar'
+INFO:root:ADDED UNSEEN VERTEX for 'The 40-Year-Old Virgin'
+INFO:root:SKIPPED '13 Going on 30'; IMDb rating of 6.1 is below the threshold of 7.1
+INFO:root:ADDED UNSEEN VERTEX for 'The Godfather: Part II'
+INFO:root:ADDED UNSEEN VERTEX for 'Nowitzki: The Perfect Shot'
+INFO:root:ADDED UNSEEN VERTEX for 'Crazy Heart'
+INFO:root:SKIPPED 'The Hangover Part III'; IMDb rating of 5.9 is below the threshold of 7.1
+INFO:root:SKIPPED 'Ocean Waves'; IMDb rating of 6.9 is below the threshold of 7.1
+INFO:root:ADDED UNSEEN VERTEX for 'Me Before You'
+INFO:root:ADDED UNSEEN VERTEX for 'Shrek'
+INFO:root:ADDED UNSEEN VERTEX for 'English Vinglish'
+INFO:root:ADDED UNSEEN VERTEX for 'Coraline'
+INFO:root:ADDED UNSEEN VERTEX for 'Winter on Fire: Ukraine's Fight for Freedom'
+INFO:root:ADDED UNSEEN VERTEX for 'The Help'
+INFO:root:ADDED UNSEEN VERTEX for 'Dial M for Murder'
+INFO:root:SKIPPED 'Blair Witch'; IMDb rating of 5.0 is below the threshold of 7.1
+INFO:root:ADDED UNSEEN VERTEX for 'American Made'
+INFO:root:ADDED UNSEEN VERTEX for 'The Accountant'
+INFO:root:SKIPPED 'Daddy's Home 2'; IMDb rating of 6.0 is below the threshold of 7.1
+INFO:root:ADDED UNSEEN VERTEX for 'Polytechnique'
+INFO:root:ADDED UNSEEN VERTEX for 'Love, Rosie'
+INFO:root:ADDED UNSEEN VERTEX for 'Now You See Me'
+INFO:root:SKIPPED 'Billy Madison'; IMDb rating of 6.4 is below the threshold of 7.1
+INFO:root:ADDED UNSEEN VERTEX for 'The Wildest Dream'
+INFO:root:SKIPPED 'Hotarubi no mori e'; scraper could not find a runtime
+INFO:root:SKIPPED 'Six Million Steps: A Journey Inward'; scraper could not find a list of actors or directors
+INFO:root:ADDED UNSEEN VERTEX for 'Chaharshanbe-soori'
+INFO:root:SKIPPED 'Batman v Superman: Dawn of Justice'; IMDb rating of 6.6 is below the threshold of 7.1
+INFO:root:ADDED UNSEEN VERTEX for 'Man on Wire'
+INFO:root:SKIPPED 'Tomb Raider'; IMDb rating of 6.8 is below the threshold of 7.1
+INFO:root:ADDED UNSEEN VERTEX for 'Drishyam'
+INFO:root:ADDED UNSEEN VERTEX for 'Taken'
+INFO:root:SKIPPED 'The Wedding Ringer'; IMDb rating of 6.7 is below the threshold of 7.1
+INFO:root:SKIPPED 'Kkaku kidtai 2.0'; it is not a movie
+INFO:root:ADDED UNSEEN VERTEX for 'Casablanca'
+INFO:root:SKIPPED 'Only the Dead'; it is not a movie
+INFO:root:ADDED UNSEEN VERTEX for 'GoldenEye'
+INFO:root:SKIPPED 'Romeo + Juliet'; IMDb rating of 6.8 is below the threshold of 7.1
+INFO:root:ADDED UNSEEN VERTEX for 'The Bourne Supremacy'
+INFO:root:ADDED UNSEEN VERTEX for 'X: First Class'
+INFO:root:ADDED UNSEEN VERTEX for 'Ip Man 2'
+INFO:root:ADDED UNSEEN VERTEX for 'The Executioner'
+INFO:root:SKIPPED 'The Man in the Iron Mask'; IMDb rating of 6.5 is below the threshold of 7.1
+INFO:root:ADDED UNSEEN VERTEX for 'Sangam'
+INFO:root:ADDED UNSEEN VERTEX for 'Gangs of New York'
+INFO:root:ADDED UNSEEN VERTEX for 'The Legend Is Born: Ip Man'
+INFO:root:ADDED UNSEEN VERTEX for 'Driving Miss Daisy'
+INFO:root:ADDED UNSEEN VERTEX for 'Ponyo'
+INFO:root:SKIPPED '2 Fast 2 Furious'; IMDb rating of 5.9 is below the threshold of 7.1
+INFO:root:ADDED UNSEEN VERTEX for 'Seven Pounds'
+INFO:root:ADDED UNSEEN VERTEX for 'Source Code'
+INFO:root:ADDED UNSEEN VERTEX for 'Magnolia'
+INFO:root:ADDED UNSEEN VERTEX for 'Back to the Future Part III'
+INFO:root:ADDED UNSEEN VERTEX for 'The Battle of Chile: Part II'
+INFO:root:ADDED UNSEEN VERTEX for 'Phantom Thread'
+INFO:root:ADDED UNSEEN VERTEX for 'The Good, the Bad and the Ugly'
+INFO:root:ADDED UNSEEN VERTEX for 'The Dream Team'
+INFO:root:SKIPPED 'The Vow'; IMDb rating of 6.8 is below the threshold of 7.1
+INFO:root:ADDED UNSEEN VERTEX for '28 Days Later...'
+INFO:root:ADDED UNSEEN VERTEX for 'Captain Fantastic'
+INFO:root:ADDED UNSEEN VERTEX for 'It's a Wonderful Life'
+INFO:root:ADDED UNSEEN VERTEX for 'Stagecoach'
+INFO:root:ADDED UNSEEN VERTEX for 'Enemy at the Gates'
+INFO:root:ADDED UNSEEN VERTEX for 'Super Size Me'
+INFO:root:ADDED UNSEEN VERTEX for 'Pyaasa'
+INFO:root:SKIPPED 'Patriot Games'; IMDb rating of 6.9 is below the threshold of 7.1
+INFO:root:ADDED UNSEEN VERTEX for 'The Secret World of Arrietty'
+INFO:root:ADDED UNSEEN VERTEX for 'Rio Bravo'
+INFO:root:ADDED UNSEEN VERTEX for 'Chicago'
+INFO:root:SKIPPED 'Demolition'; IMDb rating of 7.0 is below the threshold of 7.1
+INFO:root:ADDED UNSEEN VERTEX for 'The Chaser'
+INFO:root:SKIPPED 'Eagle vs Shark'; IMDb rating of 6.8 is below the threshold of 7.1
+INFO:root:ADDED UNSEEN VERTEX for 'Mera Naam Joker'
+INFO:root:ADDED UNSEEN VERTEX for 'Le pass'
+INFO:root:ADDED UNSEEN VERTEX for 'Twin Peaks: Fire Walk with Me'
+INFO:root:SKIPPED 'Maze Runner: The Death Cure'; IMDb rating of 6.5 is below the threshold of 7.1
+INFO:root:ADDED UNSEEN VERTEX for 'I, Robot'
+INFO:root:ADDED UNSEEN VERTEX for 'The Ivory Game'
+INFO:root:SKIPPED 'Jumanji: Welcome to the Jungle'; IMDb rating of 7.0 is below the threshold of 7.1
+INFO:root:ADDED UNSEEN VERTEX for 'The Man from Nowhere'
+INFO:root:SKIPPED 'X-Men: Apocalypse'; IMDb rating of 7.0 is below the threshold of 7.1
+INFO:root:ADDED UNSEEN VERTEX for 'The Act of Killing'
+INFO:root:ADDED UNSEEN VERTEX for 'Armadillo'
+INFO:root:ADDED UNSEEN VERTEX for 'Rango'
+INFO:root:ADDED UNSEEN VERTEX for 'The Lizard'
+INFO:root:ADDED UNSEEN VERTEX for 'Rocky Balboa'
+INFO:root:ADDED UNSEEN VERTEX for 'Black Hawk Down'
+INFO:root:SKIPPED 'Chile, the Obstinate Memory'; scraper could not find a runtime
+INFO:root:SKIPPED 'A Serious Man'; IMDb rating of 7.0 is below the threshold of 7.1
+INFO:root:SKIPPED 'One in a Billion'; IMDb rating of 6.8 is below the threshold of 7.1
+INFO:root:ADDED UNSEEN VERTEX for 'The Judge'
+INFO:root:ADDED UNSEEN VERTEX for 'The Battle of Chile: Part I'
+INFO:root:ADDED UNSEEN VERTEX for 'The Darjeeling Limited'
+INFO:root:ADDED UNSEEN VERTEX for 'Lady Vengeance'
+INFO:root:ADDED UNSEEN VERTEX for 'Sicko'
+INFO:root:ADDED UNSEEN VERTEX for 'Good Time'
+INFO:root:ADDED UNSEEN VERTEX for 'Dil Chahta Hai'
+INFO:root:ADDED UNSEEN VERTEX for 'PK'
+INFO:root:SKIPPED 'The Wolfpack'; IMDb rating of 7.0 is below the threshold of 7.1
+INFO:root:ADDED UNSEEN VERTEX for 'Black Dynamite'
+INFO:root:SKIPPED 'Meet the Parents'; IMDb rating of 7.0 is below the threshold of 7.1
+INFO:root:SKIPPED 'Public Enemies'; IMDb rating of 7.0 is below the threshold of 7.1
+INFO:root:ADDED UNSEEN VERTEX for 'Unforgiven'
+INFO:root:ADDED UNSEEN VERTEX for 'Food, Inc.'
+INFO:root:ADDED UNSEEN VERTEX for 'Thirst'
+INFO:root:SKIPPED 'Maze Runner: The Scorch Trials'; IMDb rating of 6.3 is below the threshold of 7.1
+INFO:root:SKIPPED '300: Rise of an Empire'; IMDb rating of 6.2 is below the threshold of 7.1
+INFO:root:SKIPPED 'The Da Vinci Code'; IMDb rating of 6.6 is below the threshold of 7.1
+INFO:root:ADDED UNSEEN VERTEX for 'Terminator 2'
+INFO:root:ADDED UNSEEN VERTEX for 'Bottle Rocket'
+INFO:root:ADDED UNSEEN VERTEX for 'Love Actually'
+INFO:root:SKIPPED 'Monty Python's Flying Circus'; it is not a movie
+INFO:root:ADDED UNSEEN VERTEX for 'T2 Trainspotting'
+INFO:root:SKIPPED 'A Ghost Story'; IMDb rating of 6.9 is below the threshold of 7.1
+INFO:root:ADDED UNSEEN VERTEX for 'Kung Fu Panda 2'
+INFO:root:ADDED UNSEEN VERTEX for 'Fahrenheit 9/11'
+INFO:root:SKIPPED 'Sinister'; IMDb rating of 6.8 is below the threshold of 7.1
+INFO:root:SKIPPED 'Pitch Perfect 2'; IMDb rating of 6.4 is below the threshold of 7.1
+INFO:root:SKIPPED 'Talladega Nights: The Ballad of Ricky Bobby'; IMDb rating of 6.6 is below the threshold of 7.1
+INFO:root:ADDED UNSEEN VERTEX for 'The Last Emperor'
+INFO:root:ADDED UNSEEN VERTEX for 'Level Five'
+INFO:root:ADDED UNSEEN VERTEX for 'Golmaal: Fun Unlimited'
+INFO:root:SKIPPED 'The Last Song'; IMDb rating of 5.9 is below the threshold of 7.1
+INFO:root:SKIPPED 'Pensionat Oskar'; IMDb rating of 6.6 is below the threshold of 7.1
+INFO:root:SKIPPED 'Miracle on Everest'; scraper could not find a runtime
+INFO:root:SKIPPED 'Mean Girls'; IMDb rating of 7.0 is below the threshold of 7.1
+INFO:root:ADDED UNSEEN VERTEX for 'Dr. Strangelove or: How I Learned to Stop Worrying and Love the Bomb'
+INFO:root:SKIPPED 'Yip Man: Jung gik yat jin'; IMDb rating of 6.2 is below the threshold of 7.1
+INFO:root:ADDED UNSEEN VERTEX for 'Into the Wild'
+INFO:root:SKIPPED 'Cocktail'; IMDb rating of 5.8 is below the threshold of 7.1
+INFO:root:SKIPPED 'Pitch Perfect 3'; IMDb rating of 6.0 is below the threshold of 7.1
+INFO:root:ADDED UNSEEN VERTEX for 'Jagten'
+INFO:root:ADDED UNSEEN VERTEX for 'Al midan'
+INFO:root:ADDED UNSEEN VERTEX for 'Singin' in the Rain'
+INFO:root:SKIPPED 'Green Room'; IMDb rating of 7.0 is below the threshold of 7.1
+INFO:root:SKIPPED 'Hollywood Shuffle'; IMDb rating of 7.0 is below the threshold of 7.1
+INFO:root:SKIPPED 'From Hell'; IMDb rating of 6.8 is below the threshold of 7.1
+INFO:root:ADDED UNSEEN VERTEX for 'Veer-Zaara'
+INFO:root:ADDED UNSEEN VERTEX for 'Blue Valentine'
+INFO:root:ADDED UNSEEN VERTEX for 'Little Miss Sunshine'
+INFO:root:SKIPPED 'The Hangover Part II'; IMDb rating of 6.5 is below the threshold of 7.1
+INFO:root:SKIPPED 'Ocean's Twelve'; IMDb rating of 6.5 is below the threshold of 7.1
+INFO:root:ADDED UNSEEN VERTEX for 'The Lord of the Rings: The Return of the King'
+INFO:root:SKIPPED 'Indiana Jones and the Kingdom of the Crystal Skull'; IMDb rating of 6.2 is below the threshold of 7.1
+INFO:root:ADDED UNSEEN VERTEX for 'The Artist'
+INFO:root:ADDED UNSEEN VERTEX for 'Raising Arizona'
+INFO:root:ADDED UNSEEN VERTEX for 'Columbus'
+INFO:root:ADDED UNSEEN VERTEX for 'Rocky'
+INFO:root:SKIPPED 'Don Jon'; IMDb rating of 6.6 is below the threshold of 7.1
+INFO:root:SKIPPED 'Jackass: The Movie'; IMDb rating of 6.6 is below the threshold of 7.1
+INFO:root:SKIPPED 'Secret Window'; IMDb rating of 6.6 is below the threshold of 7.1
+INFO:root:ADDED UNSEEN VERTEX for 'Aliens'
+INFO:root:ADDED UNSEEN VERTEX for 'Andaz Apna Apna'
+INFO:root:SKIPPED 'Solo'; scraper could not find a runtime
+INFO:root:ADDED UNSEEN VERTEX for 'Groundhog Day'
+INFO:root:ADDED UNSEEN VERTEX for 'Crazy, Stupid, Love.'
+INFO:root:SKIPPED 'A Map for Saturday'; it is not a movie
+INFO:root:SKIPPED 'The Other Guys'; IMDb rating of 6.7 is below the threshold of 7.1
+INFO:root:ADDED UNSEEN VERTEX for 'Cinema Paradiso'
+INFO:root:SKIPPED 'Koto no ha no niwa'; it is not a movie
+INFO:root:ADDED UNSEEN VERTEX for 'Ying xiong'
+INFO:root:ADDED UNSEEN VERTEX for 'The Wizard of Oz'
+INFO:root:ADDED UNSEEN VERTEX for 'The Longest Ride'
+INFO:root:SKIPPED 'Rush Hour 2'; IMDb rating of 6.6 is below the threshold of 7.1
+INFO:root:ADDED UNSEEN VERTEX for 'Edward Scissorhands'
+INFO:root:ADDED UNSEEN VERTEX for 'The Sojourners'
+INFO:root:SKIPPED 'Everybody Wants Some!!'; IMDb rating of 7.0 is below the threshold of 7.1
+INFO:root:ADDED UNSEEN VERTEX for 'Ghajini'
+INFO:root:SKIPPED 'Dirty Grandpa'; IMDb rating of 5.9 is below the threshold of 7.1
+INFO:root:SKIPPED 'Legally Blonde'; IMDb rating of 6.2 is below the threshold of 7.1
+INFO:root:SKIPPED 'Rocky IV'; IMDb rating of 6.8 is below the threshold of 7.1
+INFO:root:SKIPPED 'Due Date'; IMDb rating of 6.6 is below the threshold of 7.1
+INFO:root:ADDED UNSEEN VERTEX for 'It'
+INFO:root:SKIPPED 'Miss Congeniality'; IMDb rating of 6.2 is below the threshold of 7.1
+INFO:root:SKIPPED 'Maleficent'; IMDb rating of 7.0 is below the threshold of 7.1
+INFO:root:SKIPPED 'Mission: Impossible III'; IMDb rating of 6.9 is below the threshold of 7.1
+INFO:root:SKIPPED 'Ride Along 2'; IMDb rating of 5.9 is below the threshold of 7.1
+INFO:root:ADDED UNSEEN VERTEX for 'Fakin' Da Funk'
+INFO:root:SKIPPED 'Madagascar'; IMDb rating of 6.9 is below the threshold of 7.1
+INFO:root:ADDED UNSEEN VERTEX for 'Grizzly Man'
+INFO:root:SKIPPED 'Get Him to the Greek'; IMDb rating of 6.4 is below the threshold of 7.1
+INFO:root:ADDED UNSEEN VERTEX for 'Sing'
+INFO:root:SKIPPED '5 Centimeters Per Second'; it is not a movie
+INFO:root:ADDED UNSEEN VERTEX for 'Lagaan: Once Upon a Time in India'
+INFO:root:ADDED UNSEEN VERTEX for 'Star Trek IV: The Voyage Home'
+INFO:root:ADDED UNSEEN VERTEX for 'Ant-Man'
+INFO:root:ADDED UNSEEN VERTEX for 'Troy'
+INFO:root:ADDED UNSEEN VERTEX for 'The Killing of a Sacred Deer'
+INFO:root:ADDED UNSEEN VERTEX for 'Miss Sloane'
+INFO:root:SKIPPED 'Central Intelligence'; IMDb rating of 6.3 is below the threshold of 7.1
+INFO:root:ADDED UNSEEN VERTEX for 'The Descendants'
+INFO:root:ADDED UNSEEN VERTEX for 'The Danish Girl'
+INFO:root:ADDED UNSEEN VERTEX for 'Snowden'
+INFO:root:ADDED UNSEEN VERTEX for 'Yip Man 3'
+INFO:root:ADDED UNSEEN VERTEX for 'Me and Earl and the Dying Girl'
+INFO:root:ADDED UNSEEN VERTEX for 'Fast Times at Ridgemont High'
+INFO:root:ADDED UNSEEN VERTEX for 'Awaara'
+INFO:root:SKIPPED 'Mike and Dave Need Wedding Dates'; IMDb rating of 6.0 is below the threshold of 7.1
+INFO:root:ADDED UNSEEN VERTEX for 'Sully'
+INFO:root:ADDED UNSEEN VERTEX for 'P.S. I Love You'
+INFO:root:ADDED UNSEEN VERTEX for 'Life Is Beautiful'
+INFO:root:ADDED UNSEEN VERTEX for 'Gifted'
+INFO:root:ADDED UNSEEN VERTEX for 'Raging Bull'
+INFO:root:ADDED UNSEEN VERTEX for 'Inside Llewyn Davis'
+INFO:root:ADDED UNSEEN VERTEX for 'The Meaning of Life'
+INFO:root:ADDED UNSEEN VERTEX for 'Fast Five'
+INFO:root:SKIPPED 'Flight of the Conchords'; it is not a movie
+INFO:root:ADDED UNSEEN VERTEX for 'Jackass Number Two'
+INFO:root:ADDED UNSEEN VERTEX for 'Eraserhead'
+INFO:root:ADDED UNSEEN VERTEX for 'More Than a Game'
+INFO:root:ADDED UNSEEN VERTEX for 'Body of Lies'
+INFO:root:ADDED UNSEEN VERTEX for 'The Imposter'
+INFO:root:ADDED UNSEEN VERTEX for 'The Battle of Chile: Part III'
+INFO:root:ADDED UNSEEN VERTEX for 'Shakespeare in Love'
+INFO:root:ADDED UNSEEN VERTEX for 'Toki o kakeru shjo'
+INFO:root:ADDED UNSEEN VERTEX for 'The Sting'
+INFO:root:ADDED UNSEEN VERTEX for 'Capturing the Friedmans'
+INFO:root:SKIPPED 'Get Hard'; IMDb rating of 6.0 is below the threshold of 7.1
+INFO:root:ADDED UNSEEN VERTEX for 'Ghost in the Shell 2: Innocence'
+INFO:root:SKIPPED 'Cinderella'; IMDb rating of 6.9 is below the threshold of 7.1
+INFO:root:ADDED UNSEEN VERTEX for 'The Age of Adaline'
+INFO:root:ADDED UNSEEN VERTEX for 'Where to Invade Next'
+INFO:root:SKIPPED 'Die Another Day'; IMDb rating of 6.1 is below the threshold of 7.1
+INFO:root:ADDED UNSEEN VERTEX for 'Amlie'
+INFO:root:ADDED UNSEEN VERTEX for 'Men in Black'
+INFO:root:SKIPPED 'Book of Shadows: Blair Witch 2'; IMDb rating of 4.0 is below the threshold of 7.1
+INFO:root:ADDED UNSEEN VERTEX for 'The Royal Tenenbaums'
+INFO:root:SKIPPED 'Hot Shots! Part Deux'; IMDb rating of 6.6 is below the threshold of 7.1
+INFO:root:SKIPPED 'Focus'; IMDb rating of 6.6 is below the threshold of 7.1
+INFO:root:ADDED UNSEEN VERTEX for 'Neko no ongaeshi'
+INFO:root:ADDED UNSEEN VERTEX for 'Pump Up the Volume'
+INFO:root:SKIPPED 'The Woman in Black'; IMDb rating of 6.4 is below the threshold of 7.1
+INFO:root:SKIPPED 'Insurgent'; IMDb rating of 6.2 is below the threshold of 7.1
+INFO:root:ADDED UNSEEN VERTEX for 'The Naked Gun: From the Files of Police Squad!'
+INFO:root:SKIPPED 'Crouching Tiger, Hidden Dragon: Sword of Destiny'; IMDb rating of 6.1 is below the threshold of 7.1
+INFO:root:ADDED UNSEEN VERTEX for 'Rear Window'
+INFO:root:SKIPPED 'The Waterboy'; IMDb rating of 6.1 is below the threshold of 7.1
+INFO:root:SKIPPED 'Pearl Harbor'; IMDb rating of 6.1 is below the threshold of 7.1
+INFO:root:SKIPPED 'The Boxtrolls'; IMDb rating of 6.8 is below the threshold of 7.1
+INFO:root:Scraped the user's unseen movies
+INFO:root:Logging unseen movie data...
